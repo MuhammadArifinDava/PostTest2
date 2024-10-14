@@ -210,30 +210,5 @@ Jika pengguna memilih untuk keluar, program akan menampilkan pesan keluar dan me
 
 
 Penjelasan Output Program
-![image](https://github.com/user-attachments/assets/3e0fbbb2-1892-4324-9cfc-f065ec01f24e)
-Tampilan awal dan fitur untuk menambahkan data pasien
-
-![image](https://github.com/user-attachments/assets/c11c0bf5-316c-4490-b2a5-f085017eed8b)
-input 2 untuk menampilkan data pasien yang ada
-
-![image](https://github.com/user-attachments/assets/7e438432-002b-49ad-88aa-a2f0c00c6607)
-input 3 untuk mengupdate data pasien menggunakan nama pasien, kemudian update umur dan juga penyakit yg diderita, kemudian menampilkan data yg sudah diupdate
-
-![image](https://github.com/user-attachments/assets/ba5262d2-35e6-4707-85e0-98ffd17afbde)
-input 4 untuk menghapus data pasien kemudian menampilkan data yg telah dihapus
-
-
-
-![image](https://github.com/user-attachments/assets/5dd986cd-4e05-434c-ade6-98866aebd570)
-input 5 untuk menambahkan data dokter berupa nama, spesialisasi penyakit, dan juga nomor kontak, input 6 untuk menampilkan data dokter yang ada
-
-![image](https://github.com/user-attachments/assets/41d4f7a1-d440-4301-a369-24a8cebd160d)
-input 7 untuk mengupdate data dokter menggunakan nama dokter, kemudian update spesialiasi dan juga nomor kontak,  kemudian menampilkan data yg sudah diupdate
-
-![image](https://github.com/user-attachments/assets/77389f88-2be4-40b4-9f23-a829f8d459b3)
-input 8 untuk menghapus data dokter, kemudian menampilkan data yg telah dihapus dengan 6
-
-
-
-![image](https://github.com/user-attachments/assets/faef0035-2057-4ec6-a70d-b3808789372d)
-input 0 untuk keluar dari program, program telah selesai
+![image](https://github.com/user-attachments/assets/18d7314e-cc28-4714-a47b-1c0f9f5aa97f)
+Tampilan awal, memilih role Pasien ataupun Dokter, dimana dokter
